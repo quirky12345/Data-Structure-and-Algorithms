@@ -1,2 +1,4 @@
-# TestingRepo
-Created this Repo to learn about github like why github, what it does and how it does.
+# Data Structures and Algorithms
+Here I have added codes to various problems related to Data structures and Algorithms. 
+
+Please feel free to contribute to my repository.
